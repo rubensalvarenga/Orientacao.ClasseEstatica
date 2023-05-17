@@ -1,0 +1,14 @@
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\bin\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.exe
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\bin\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.deps.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\bin\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.runtimeconfig.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\bin\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.runtimeconfig.dev.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\bin\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\bin\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\obj\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.csproj.AssemblyReference.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\obj\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\obj\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.AssemblyInfoInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\obj\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.AssemblyInfo.cs
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\obj\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\obj\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\obj\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.ClasseEstatica\obj\Debug\netcoreapp3.1\Orientacao.ClasseEstatica.genruntimeconfig.cache
